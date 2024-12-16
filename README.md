@@ -1,2 +1,2 @@
 # rosalind
-My responses for problems from [**Rosalind**]([url](https://rosalind.info/problems))
+My responses for problems from rosalind.info
