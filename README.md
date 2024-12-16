@@ -1,2 +1,2 @@
-# rosalind
-My responses for problems from rosalind.info
+# Rosalind
+My responses for problems from rosalind.info. 
